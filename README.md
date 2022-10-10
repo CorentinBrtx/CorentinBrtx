@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CorentinBrtx
-- 👀 I’m interested in Data Science, but also Space exploration 🚀 and Formula 1 🏎 !
+- 👀 I’m interested in Data Science, but also Space exploration 🚀, Formula 1 🏎 and I play badminton 🏸 !
 - 🌱 I’m currently working at Sicara, as a Data Scientist and Data Engineer.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/corentin-berteaux/) or via e-mail at corentin.berteaux@sicara.com
 
